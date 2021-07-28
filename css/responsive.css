@@ -1,0 +1,230 @@
+
+
+@media (min-width: 320px) and (max-width: 480px){
+	.header-txt h1 {
+    font-size: 40px;
+    line-height: 50px;
+   	color: #000;
+}
+.header-txt p {
+    font-size: 20px;
+    color: #000;
+}
+.header {
+    padding: 0px 0px 5px;
+}
+.populer {
+    width: 100%;
+    padding: 10px 0px;
+}
+.populer h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.card {
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.bg-info {
+    padding: 15px 30px;
+    font-size: 18px;
+}
+.more-img .img-fluid {
+    padding: 0px;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.more-txt h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.more-txt p {
+    font-size: 15px;
+}
+.more .btn-primary {
+    padding: 10px 30px;
+   font-size: 18px;
+   margin-top: 20px;
+}
+.more-txt h2 {
+    font-size: 30px;
+}
+.more-imgg img {
+    margin-left: -3px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.free h1 {
+    font-size: 40px;
+}
+.free p {
+    font-size: 12px;
+}
+.free .btn-info {
+	font-size: 12px;
+    padding: 5px 30px;
+  
+}
+.about h4 {
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+}
+.about p {
+    font-size: 17px;
+   color: #000;
+   text-align: center;
+}
+.txt-mss h3 {
+    font-size: 30px;
+   color: #000;
+   text-align: center;
+}
+.txt-mss h6 {
+    font-size: 20px;
+   color: #000;
+   text-align: center;
+}
+}
+@media (min-width: 481px) and (max-width: 767px){
+	.header-txt h1 {
+    font-size: 40px;
+    line-height: 50px;
+   	color: #000;
+}
+.header-txt p {
+    font-size: 20px;
+    color: #000;
+}
+.header {
+    padding: 0px 0px 5px;
+}
+.populer {
+    width: 100%;
+    padding: 10px 0px;
+}
+.populer h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.card {
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.bg-info {
+    padding: 15px 30px;
+    font-size: 18px;
+}
+.more-img .img-fluid {
+    padding: 0px;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.more-txt h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.more-txt p {
+    font-size: 15px;
+}
+.more .btn-primary {
+    padding: 10px 30px;
+   font-size: 18px;
+   margin-top: 20px;
+}
+.more-txt h2 {
+    font-size: 30px;
+}
+.more-imgg img {
+    margin-left: -3px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.free h1 {
+    font-size: 40px;
+}
+.free p {
+    font-size: 12px;
+}
+.free .btn-info {
+	font-size: 12px;
+    padding: 5px 30px;
+  
+}
+.about h4 {
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+}
+.about p {
+    font-size: 17px;
+   color: #000;
+   text-align: center;
+}
+.txt-mss h3 {
+    font-size: 30px;
+   color: #000;
+   text-align: center;
+}
+.txt-mss h6 {
+    font-size: 20px;
+   color: #000;
+   text-align: center;
+}
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+.header {
+    padding: 0px 0px 5px;
+}
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+.populer h5 {
+    font-size: 20px;
+    line-height: 35px;
+    font-weight: 500;
+    color: ;
+}
+.populer p {
+    font-size: 13px;
+}
+.populer h6 {
+    font-size: 18px;
+}
+.bg-info {
+    padding: 8px 40px;
+    font-size: 20px; 
+}
+.more-txt h2 {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.more-txt p {
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+}
+.more .btn-primary {
+    padding: 10px 30px;
+    font-size: 20px;
+}
+.more-txt h2 {
+    font-size: 30px;
+   line-height: 40px;
+}
+.more .btn-primary {
+    padding: 7px 30px;
+    font-size: 20px;
+}
+.order {
+    margin-top: -38px;
+}
+.free .btn-info {
+    padding: 5px 30px;
+    font-size: 20px;
+    font-size: 450;
+}
+}
